@@ -3,7 +3,7 @@
 
 **Scenario:** Given fictitious online ads dataset contains information about customers demographic attributes, 
 behavioral features on the Internet, and characteristics of online Ads. 
-Objective is extract summary of attributes and insights from dataset and find factors influencing Ad-click.
+Objective is to extract summary of attributes and insights from dataset and find factors influencing Ad-click.
 
 **Attribute information:**
 * Daily Time Spent on Site:	 consumer time on site in minutes
